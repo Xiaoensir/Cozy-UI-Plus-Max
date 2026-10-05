@@ -1,6 +1,6 @@
 我将以非本人原版续作来续写【Cozy UI Plus】兼容版本1.20 - 26.3 [ Java 
 
-【Cozy UI Plas】gethub原作者地址是 https://github.com/Fogg05/CozyUI-Plus
+【Cozy UI Plas】github原作者地址是 https://github.com/Fogg05/CozyUI-Plus
 
 此次非原版续作的人员:小恩施施【bilibili】
 
